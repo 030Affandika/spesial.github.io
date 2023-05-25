@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+}
+
+.konten {
+    
+    margin-top: 50vh;
+}
+
+.judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5vh;
+
+}
+.pos1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+margin-top: 5vh;
+
+}
+.box{
+    width: 60vw;
+    height: 40vh;
+    border: dotted 5px white;
+    background-image: url();
+}
+.text {
+    color: aliceblue;
+    font-size: 16px;
+}
+
+.potoren{
+    
+    height: 20vh;
+    border: dotted 5px white;
+}
+.container {
+    position: absolute;
+}
